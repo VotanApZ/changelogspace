@@ -1,7 +1,5 @@
 # Check List SPACE CITY
 <p align="center">
-  <a href="#todo">Para fazer</a> •
-  <a href="#ideias">IDEIA INOVADORAS</a> 
 </p>
 
 
